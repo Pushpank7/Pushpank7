@@ -1,4 +1,4 @@
-![logo](https://github.com/Pushpank7/Pushpank7/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Pushpank Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
