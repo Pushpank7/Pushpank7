@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpank7&label=Profile%20views&color=0e75b6&style=flat" alt="pushpank7" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analyst**
 
-- 💬 Ask me about **PowerBI**
+- 💬 Ask me about **SQL**
 
 - 📫 How to reach me **pushpankkumar005@gmail.com**
 
